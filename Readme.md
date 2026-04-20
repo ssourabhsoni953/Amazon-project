@@ -43,4 +43,4 @@ Simply open `amazon.html` in your favorite browser. No build steps required!
 
 ## 🤝 Connect
 
-Built with 💻 by **Sourabh** — GitHub Profile
+Built with 💻 by <a href="https://github.com/ssourabhsoni953">Sourabh</a>
